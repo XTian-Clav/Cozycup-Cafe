@@ -8,10 +8,10 @@ The Cozy Cup Cafe web application is designed to provide coffee enthusiasts with
 ## Screen Captures
 
 ## About the Authors
-<img src="https://github.com/XTian-Clav.png" width="150" style="border-radius: 50%;">
+<img src="https://github.com/XTian-Clav.png" width="150" style=" border-radius: 50%;">
 
 **Name:** Christian Clavite  
 **Email:** xtianclavite@gmail.com
 
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="150" style="border-radius: 50%;"> [Facebook](https://www.facebook.com/christian.clavite)
-<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="150" style="border-radius: 50%;"> [GitHub](https://github.com/XTian-Clav)
+<a href="https://www.facebook.com/christian.clavite"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="40">
+<a href="https://github.com/XTian-Clav"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="40">
