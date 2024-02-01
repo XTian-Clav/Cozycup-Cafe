@@ -13,5 +13,5 @@ The Cozy Cup Cafe web application is designed to provide coffee enthusiasts with
 **Name:** Christian Clavite  
 **Email:** xtianclavite@gmail.com
 
-[![Facebook](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png)(https://www.facebook.com/christian.clavite)
-[![GitHub](https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png)(https://github.com/XTian-Clav)
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="150" style="border-radius: 50%;"> [Facebook](https://www.facebook.com/christian.clavite)
+<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="150" style="border-radius: 50%;"> [GitHub](https://github.com/XTian-Clav)
