@@ -4,7 +4,7 @@
 The Cozy Cup Cafe is designed to provide coffee enthusiasts with a delightful online customer experience and catering to their passion for coffee.
 
 ## Features
-- chris
+- Add features here
 - 
 ## Screen Captures
 
