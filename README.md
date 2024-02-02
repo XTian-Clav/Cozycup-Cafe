@@ -1,7 +1,7 @@
 # Cozy Cup Cafe
 
 ## Project Description
-The Cozy Cup Cafe web application is designed to provide coffee enthusiasts with a delightful online customer experience and catering to their passion for coffee.
+The Cozy Cup Cafe is designed to provide coffee enthusiasts with a delightful online customer experience and catering to their passion for coffee.
 
 ## Features
 
